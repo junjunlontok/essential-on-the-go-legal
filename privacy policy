@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Essential on the Go</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #e91e63;
+            border-bottom: 3px solid #e91e63;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #e91e63;
+            margin-top: 30px;
+        }
+        h3 {
+            color: #666;
+            margin-top: 25px;
+        }
+        .date-info {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 30px;
+        }
+        .contact-info {
+            background: #e3f2fd;
+            padding: 20px;
+            border-radius: 5px;
+            border-left: 4px solid #2196f3;
+        }
+        ul li {
+            margin-bottom: 8px;
+        }
+        .important {
+            background: #fff3cd;
+            padding: 15px;
+            border-radius: 5px;
+            border-left: 4px solid #ffc107;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy for Essential on the Go</h1>
+        
+        <div class="date-info">
+            <strong>Effective Date:</strong> August 13, 2025<br>
+            <strong>Last Updated:</strong> August 13, 2025
+        </div>
+
+        <h2>1. Introduction</h2>
+        <p>Welcome to Essential on the Go ("we," "our," or "us"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App"). The App connects clients with local businesses for various services including laundry, transportation, and other essential services.</p>
+        <p>Please read this Privacy Policy carefully. By using our App, you consent to the practices described in this policy.</p>
+
+        <h2>2. Information We Collect</h2>
+
+        <h3>2.1 Personal Information You Provide</h3>
+        <ul>
+            <li><strong>Account Information:</strong> Name, email address, phone number, password</li>
+            <li><strong>Profile Information:</strong> Profile picture, address, user preferences</li>
+            <li><strong>Business Information (for Business Users):</strong> Business name, description, contact details, business hours, services offered, business location</li>
+            <li><strong>Communication Data:</strong> Messages sent through our in-app chat system, customer support communications</li>
+        </ul>
+
+        <h3>2.2 Location Information</h3>
+        <ul>
+            <li><strong>Precise Location:</strong> GPS coordinates when you use location-based features (with your permission)</li>
+            <li><strong>Approximate Location:</strong> General area information for service matching</li>
+            <li><strong>Address Information:</strong> Pickup and delivery addresses for bookings</li>
+        </ul>
+
+        <h3>2.3 Usage and Technical Information</h3>
+        <ul>
+            <li><strong>Device Information:</strong> Device type, operating system, unique device identifiers</li>
+            <li><strong>App Usage:</strong> Features used, time spent in app, interaction patterns</li>
+            <li><strong>Technical Data:</strong> IP address, app version, crash reports, performance data</li>
+            <li><strong>Firebase Analytics:</strong> App usage statistics and performance metrics (anonymized)</li>
+        </ul>
+
+        <h3>2.4 Subscription and Payment Information</h3>
+        <ul>
+            <li><strong>Subscription Data:</strong> Subscription status, plan type, subscription history</li>
+            <li><strong>Payment Information:</strong> Processed through Google Play Billing (we do not store payment card details)</li>
+            <li><strong>Transaction History:</strong> Records of subscription purchases and renewals</li>
+        </ul>
+
+        <h3>2.5 Advertising Information</h3>
+        <ul>
+            <li><strong>Ad Interaction Data:</strong> Ads viewed, clicked, or interacted with</li>
+            <li><strong>Advertising ID:</strong> Device advertising identifier for personalized ads</li>
+            <li><strong>Ad Performance:</strong> Effectiveness metrics for ad campaigns</li>
+        </ul>
+
+        <h2>3. How We Use Your Information</h2>
+
+        <h3>3.1 Core App Functionality</h3>
+        <ul>
+            <li>Create and manage user accounts</li>
+            <li>Connect clients with nearby businesses</li>
+            <li>Facilitate booking and service requests</li>
+            <li>Enable in-app messaging between users</li>
+            <li>Process subscription payments and manage billing</li>
+            <li>Provide customer support</li>
+        </ul>
+
+        <h3>3.2 Service Improvement</h3>
+        <ul>
+            <li>Analyze app usage to improve features and performance</li>
+            <li>Conduct research and analytics to enhance user experience</li>
+            <li>Develop new features and services</li>
+            <li>Troubleshoot technical issues</li>
+        </ul>
+
+        <h3>3.3 Communication</h3>
+        <ul>
+            <li>Send service-related notifications</li>
+            <li>Provide subscription and billing updates</li>
+            <li>Respond to customer support inquiries</li>
+            <li>Send promotional communications (with consent)</li>
+        </ul>
+
+        <h3>3.4 Advertising</h3>
+        <ul>
+            <li>Display relevant advertisements in the free version</li>
+            <li>Personalize ad content based on usage patterns</li>
+            <li>Measure ad effectiveness and performance</li>
+        </ul>
+
+        <h3>3.5 Legal and Safety</h3>
+        <ul>
+            <li>Comply with legal obligations</li>
+            <li>Enforce our Terms of Service</li>
+            <li>Protect against fraud and abuse</li>
+            <li>Ensure user safety and security</li>
+        </ul>
+
+        <h2>4. Information Sharing and Disclosure</h2>
+
+        <h3>4.1 Service Providers</h3>
+        <p>We may share information with third-party service providers:</p>
+        <ul>
+            <li><strong>Firebase (Google):</strong> Database, authentication, analytics, and messaging</li>
+            <li><strong>Google AdMob:</strong> Advertising services</li>
+            <li><strong>Google Play Billing:</strong> Subscription payment processing</li>
+            <li><strong>Cloud hosting providers:</strong> Data storage and app infrastructure</li>
+        </ul>
+
+        <h3>4.2 Business Transfers</h3>
+        <p>In case of merger, acquisition, or sale of assets, user information may be transferred to the new entity.</p>
+
+        <h3>4.3 Legal Requirements</h3>
+        <p>We may disclose information when required by law, court order, or government request, or to protect our rights and safety.</p>
+
+        <h3>4.4 Consent-Based Sharing</h3>
+        <p>We may share information with your explicit consent for specific purposes.</p>
+
+        <h3>4.5 What We Don't Share</h3>
+        <ul>
+            <li>We do not sell personal information to third parties</li>
+            <li>We do not share information for commercial purposes without consent</li>
+            <li>Transaction details between clients and businesses remain private (we only facilitate connections)</li>
+        </ul>
+
+        <h2>5. Data Security</h2>
+        <p>We implement appropriate technical and organizational measures to protect your information:</p>
+        <ul>
+            <li>Encryption of data in transit and at rest</li>
+            <li>Secure authentication systems</li>
+            <li>Regular security assessments</li>
+            <li>Access controls and monitoring</li>
+            <li>Firebase security rules and protocols</li>
+        </ul>
+        <p>However, no method of transmission over the internet is 100% secure, and we cannot guarantee absolute security.</p>
+
+        <h2>6. Data Retention</h2>
+        <p>We retain your information for as long as necessary to:</p>
+        <ul>
+            <li>Provide our services</li>
+            <li>Comply with legal obligations</li>
+            <li>Resolve disputes</li>
+            <li>Enforce our agreements</li>
+        </ul>
+        <p>When you delete your account, we will delete or anonymize your personal information, except where retention is required by law.</p>
+
+        <h2>7. Your Rights and Choices</h2>
+
+        <h3>7.1 Account Management</h3>
+        <ul>
+            <li>Access and update your profile information</li>
+            <li>Change privacy settings</li>
+            <li>Delete your account and associated data</li>
+        </ul>
+
+        <h3>7.2 Location Services</h3>
+        <ul>
+            <li>Enable or disable location sharing</li>
+            <li>Control location precision settings</li>
+        </ul>
+
+        <h3>7.3 Communications</h3>
+        <ul>
+            <li>Opt out of promotional communications</li>
+            <li>Manage notification preferences</li>
+        </ul>
+
+        <h3>7.4 Advertising</h3>
+        <ul>
+            <li>Reset your advertising ID</li>
+            <li>Opt out of personalized ads (where available)</li>
+            <li>Upgrade to Premium to remove ads</li>
+        </ul>
+
+        <h3>7.5 Data Portability</h3>
+        <p>Request a copy of your personal data in a portable format.</p>
+
+        <h2>8. Children's Privacy</h2>
+        <p>Our App is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will delete such information.</p>
+
+        <h2>9. International Data Transfers</h2>
+        <p>Your information may be transferred to and processed in countries other than your country of residence. We ensure appropriate safeguards are in place for such transfers.</p>
+
+        <h2>10. Third-Party Services</h2>
+        <p>Our App integrates with third-party services:</p>
+        <ul>
+            <li><strong>Google Services:</strong> Firebase, AdMob, Play Billing, Maps</li>
+            <li><strong>Payment Processors:</strong> Google Play payment systems</li>
+        </ul>
+        <p>These services have their own privacy policies, and we encourage you to review them.</p>
+
+        <h2>11. Changes to This Privacy Policy</h2>
+        <p>We may update this Privacy Policy periodically. We will notify you of significant changes through:</p>
+        <ul>
+            <li>In-app notifications</li>
+            <li>Email notifications</li>
+            <li>App Store update notes</li>
+        </ul>
+        <p>Continued use of the App after changes constitutes acceptance of the updated policy.</p>
+
+        <div class="contact-info">
+            <h2>12. Contact Information</h2>
+            <p>If you have questions about this Privacy Policy or our privacy practices, contact us at:</p>
+            <p>
+                <strong>Email:</strong> eotgglobal@gmail.com<br>
+                <strong>Address:</strong> Block 14 Lot 18 Valle Allegre Bubuyan Calamba Laguna Philippines<br>
+                <strong>Phone:</strong> +639369602384
+            </p>
+        </div>
+
+        <h2>13. Regional Privacy Rights</h2>
+
+        <h3>13.1 California Residents (CCPA)</h3>
+        <p>California residents have additional rights under the California Consumer Privacy Act:</p>
+        <ul>
+            <li>Right to know what personal information is collected</li>
+            <li>Right to delete personal information</li>
+            <li>Right to opt-out of sale of personal information</li>
+            <li>Right to non-discrimination</li>
+        </ul>
+
+        <h3>13.2 European Union Residents (GDPR)</h3>
+        <p>EU residents have rights under the General Data Protection Regulation:</p>
+        <ul>
+            <li>Right of access</li>
+            <li>Right to rectification</li>
+            <li>Right to erasure</li>
+            <li>Right to restrict processing</li>
+            <li>Right to data portability</li>
+            <li>Right to object to processing</li>
+        </ul>
+        <p>To exercise these rights, contact us using the information provided above.</p>
+    </div>
+</body>
+</html>
+
