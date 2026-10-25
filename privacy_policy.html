@@ -55,15 +55,35 @@
             border-left: 4px solid #ffc107;
             margin: 20px 0;
         }
+        .doc-nav {
+            font-size: 0.9rem;
+            margin-bottom: 20px;
+        }
+        .doc-nav a {
+            color: #2196f3;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .doc-nav a:hover { text-decoration: underline; }
+        .footer {
+            text-align: center;
+            color: #666;
+            font-size: 0.85rem;
+            margin-top: 40px;
+        }
+        .footer a { color: #2196f3; text-decoration: none; }
+        .footer a:hover { text-decoration: underline; }
     </style>
 </head>
 <body>
     <div class="container">
+        <p class="doc-nav"><a href="privacy_policy.html">Privacy Policy</a> &middot; <a href="terms-and-conditions.html">Terms and Conditions</a> &middot; <a href="data-deletion-request.html">Data Deletion Request</a></p>
+
         <h1>Privacy Policy for Essential on the Go</h1>
         
         <div class="date-info">
             <strong>Effective Date:</strong> August 13, 2025<br>
-            <strong>Last Updated:</strong> August 13, 2025
+            <strong>Last Updated:</strong> October 25, 2026
         </div>
 
         <h2>1. Introduction</h2>
@@ -93,21 +113,20 @@
             <li><strong>App Usage:</strong> Features used, time spent in app, interaction patterns</li>
             <li><strong>Technical Data:</strong> IP address, app version, crash reports, performance data</li>
             <li><strong>Firebase Analytics:</strong> App usage statistics and performance metrics (anonymized)</li>
+            <li><strong>Push Notification Data:</strong> A device messaging token, so notifications you have enabled can be delivered</li>
         </ul>
 
-        <h3>2.4 Subscription and Payment Information</h3>
-        <ul>
-            <li><strong>Subscription Data:</strong> Subscription status, plan type, subscription history</li>
-            <li><strong>Payment Information:</strong> Processed through Google Play Billing (we do not store payment card details)</li>
-            <li><strong>Transaction History:</strong> Records of subscription purchases and renewals</li>
-        </ul>
+        <h3>2.4 Optional Ad-Free Subscription</h3>
+        <p>The App is free and there is no paid plan for access. The only thing we sell is an optional subscription that removes advertising for the account that buys it. If you purchase it, Google Play Billing processes the payment and we receive only your subscription status (active, cancelled or expired) and a purchase token &mdash; never your card number or billing address. We do not process payments between clients and businesses, and we do not store payment card details.</p>
 
         <h3>2.5 Advertising Information</h3>
         <ul>
             <li><strong>Ad Interaction Data:</strong> Ads viewed, clicked, or interacted with</li>
-            <li><strong>Advertising ID:</strong> Device advertising identifier for personalized ads</li>
-            <li><strong>Ad Performance:</strong> Effectiveness metrics for ad campaigns</li>
+            <li><strong>Advertising ID:</strong> The device advertising identifier, used by Google AdMob to personalise ads where you have consented</li>
+            <li><strong>Consent Choices:</strong> The decision you make in the Google-certified consent form, so the App knows whether it may request ads and personalise them</li>
+            <li><strong>Ad Performance:</strong> Aggregated effectiveness metrics for ad campaigns</li>
         </ul>
+        <p>Advertising identifiers and ad interaction data are collected by Google, not stored by us. If you decline, or have not yet consented, only non-personalised ads are requested.</p>
 
         <h2>3. How We Use Your Information</h2>
 
@@ -117,7 +136,7 @@
             <li>Connect clients with nearby businesses</li>
             <li>Facilitate booking and service requests</li>
             <li>Enable in-app messaging between users</li>
-            <li>Process subscription payments and manage billing</li>
+            <li>Manage the optional ad-free subscription status reported by Google Play Billing</li>
             <li>Provide customer support</li>
         </ul>
 
@@ -132,16 +151,17 @@
         <h3>3.3 Communication</h3>
         <ul>
             <li>Send service-related notifications</li>
-            <li>Provide subscription and billing updates</li>
+            <li>Provide updates about the optional ad-free subscription</li>
             <li>Respond to customer support inquiries</li>
             <li>Send promotional communications (with consent)</li>
         </ul>
 
         <h3>3.4 Advertising</h3>
         <ul>
-            <li>Display relevant advertisements in the free version</li>
-            <li>Personalize ad content based on usage patterns</li>
+            <li>Display the advertisements that keep the App free for everyone</li>
+            <li>Request personalised ads only where you have consented, and non-personalised ads otherwise</li>
             <li>Measure ad effectiveness and performance</li>
+            <li>Stop showing ads for an account that bought the optional ad-free subscription, or while a rewarded ad-free pass is active</li>
         </ul>
 
         <h3>3.5 Legal and Safety</h3>
@@ -157,9 +177,11 @@
         <h3>4.1 Service Providers</h3>
         <p>We may share information with third-party service providers:</p>
         <ul>
-            <li><strong>Firebase (Google):</strong> Database, authentication, analytics, and messaging</li>
-            <li><strong>Google AdMob:</strong> Advertising services</li>
-            <li><strong>Google Play Billing:</strong> Subscription payment processing</li>
+            <li><strong>Firebase (Google):</strong> Authentication, database, file storage, analytics, crash reporting, remote config and push messaging</li>
+            <li><strong>Google AdMob and the Google User Messaging Platform:</strong> Advertising and ad consent management</li>
+            <li><strong>Google Play Billing:</strong> Payment processing for the optional ad-free subscription</li>
+            <li><strong>Google Maps, Places and Location services:</strong> Address search, maps and distance calculation for bookings</li>
+            <li><strong>Facebook Login (Meta):</strong> Optional sign-in with a Facebook account</li>
             <li><strong>Cloud hosting providers:</strong> Data storage and app infrastructure</li>
         </ul>
 
@@ -198,7 +220,7 @@
             <li>Resolve disputes</li>
             <li>Enforce our agreements</li>
         </ul>
-        <p>When you delete your account, we will delete or anonymize your personal information, except where retention is required by law.</p>
+        <p>When you delete your account, we will delete or anonymize your personal information, except where retention is required by law. You can start a deletion request from the App menu under <em>Request Data Deletion</em>, or by following the steps on our <a href="data-deletion-request.html">Data Deletion Request</a> page; verified requests are completed within 30 days. Purchase records for the optional ad-free subscription are held by Google Play and are not part of your account data.</p>
 
         <h2>7. Your Rights and Choices</h2>
 
@@ -206,7 +228,7 @@
         <ul>
             <li>Access and update your profile information</li>
             <li>Change privacy settings</li>
-            <li>Delete your account and associated data</li>
+            <li>Request deletion of your account and associated data</li>
         </ul>
 
         <h3>7.2 Location Services</h3>
@@ -223,9 +245,10 @@
 
         <h3>7.4 Advertising</h3>
         <ul>
-            <li>Reset your advertising ID</li>
-            <li>Opt out of personalized ads (where available)</li>
-            <li>Upgrade to Premium to remove ads</li>
+            <li>Change or withdraw your ad consent at any time under <em>Privacy options</em> in the App's account screen</li>
+            <li>Reset or limit your advertising ID in your device settings</li>
+            <li>Opt out of personalised advertising through <a href="https://myadcenter.google.com" target="_blank" rel="noopener">Google Ad Settings</a></li>
+            <li>Buy the optional ad-free subscription, or watch a rewarded ad to pause ads for 30 minutes &mdash; neither is ever required to use a feature</li>
         </ul>
 
         <h3>7.5 Data Portability</h3>
@@ -240,10 +263,11 @@
         <h2>10. Third-Party Services</h2>
         <p>Our App integrates with third-party services:</p>
         <ul>
-            <li><strong>Google Services:</strong> Firebase, AdMob, Play Billing, Maps</li>
-            <li><strong>Payment Processors:</strong> Google Play payment systems</li>
+            <li><strong>Google services:</strong> Firebase, AdMob with the User Messaging Platform, Play Billing, Maps, Places and Play services</li>
+            <li><strong>Payment processor:</strong> Google Play, for the optional ad-free subscription only</li>
+            <li><strong>Meta:</strong> Facebook Login, when you choose to sign in with a Facebook account</li>
         </ul>
-        <p>These services have their own privacy policies, and we encourage you to review them.</p>
+        <p>These services have their own privacy policies, and we encourage you to review them. Google's is at <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">policies.google.com/privacy</a>, and its advertising controls are at <a href="https://myadcenter.google.com" target="_blank" rel="noopener">myadcenter.google.com</a>.</p>
 
         <h2>11. Changes to This Privacy Policy</h2>
         <p>We may update this Privacy Policy periodically. We will notify you of significant changes through:</p>
@@ -259,8 +283,10 @@
             <p>If you have questions about this Privacy Policy or our privacy practices, contact us at:</p>
             <p>
                 <strong>Email:</strong> eotgglobal@gmail.com<br>
-                <strong>Address:</strong> Block 14 Lot 18 Valle Allegre Bubuyan Calamba Laguna Philippines<br>
-                <strong>Phone:</strong> +639369602384
+                <strong>Address:</strong> Block 14 Lot 18 Valle Alegre Bubuyan, Calamba Laguna, Philippines<br>
+                <strong>Phone:</strong> +63 936 960 2384<br>
+                <strong>Website:</strong> <a href="https://eotg.web.app">eotg.web.app</a><br>
+                <strong>Data deletion:</strong> <a href="data-deletion-request.html">Data Deletion Request</a>
             </p>
         </div>
 
@@ -285,7 +311,12 @@
             <li>Right to data portability</li>
             <li>Right to object to processing</li>
         </ul>
-        <p>To exercise these rights, contact us using the information provided above.</p>
+        <p>To exercise these rights, contact us using the information provided above, or start a deletion request on our <a href="data-deletion-request.html">Data Deletion Request</a> page.</p>
+
+        <p class="footer">
+            Essential on the Go &middot; <a href="privacy_policy.html">Privacy Policy</a> &middot; <a href="terms-and-conditions.html">Terms and Conditions</a> &middot; <a href="data-deletion-request.html">Data Deletion Request</a><br>
+            Last updated: October 25, 2026
+        </p>
     </div>
 </body>
 </html>
